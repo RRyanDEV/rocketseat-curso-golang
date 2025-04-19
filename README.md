@@ -28,6 +28,10 @@
 
 </a>
 
+### v0.1.1-20250418
+
+- Atualização no README
+
 ### v0.1.0-20250418
 
 - Criação do repositório e documentação.
@@ -57,9 +61,9 @@
     </td>
 </table>
 
-[stars-shield]: https://img.shields.io/github/stars/RRyanDEV/rocketseat-curso-go?style=for-the-badge
-[stars-url]: https://github.com/RRyanDEV/rocketseat-curso-go/stargazers
-[issues-shield]: https://img.shields.io/github/issues/RRyanDEV/rocketseat-curso-go?style=for-the-badge
-[issues-url]: https://github.com/RRyanDEV/rocketseat-curso-go/issues
+[stars-shield]: https://img.shields.io/github/stars/RRyanDEV/rocketseat-curso-golang?style=for-the-badge
+[stars-url]: https://github.com/RRyanDEV/rocketseat-curso-golang/stargazers
+[issues-shield]: https://img.shields.io/github/issues/RRyanDEV/rocketseat-curso-golang?style=for-the-badge
+[issues-url]: https://github.com/RRyanDEV/rocketseat-curso-golang/issues
 [GoLang]: https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white
 [go-url]: https://go.dev/
