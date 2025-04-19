@@ -28,6 +28,10 @@
 
 </a>
 
+### v0.2.1-20250418
+
+- Tipos de Variáveis Compostas (`Array`, `Slice` e `Map`).
+
 ### v0.1.1-20250418
 
 - Atualização no README
