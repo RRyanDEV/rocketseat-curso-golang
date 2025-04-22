@@ -28,9 +28,14 @@
 
 </a>
 
+### v0.3.2-20250422
+
+- Estruturando Projetos (`Structs`, `Funções` e `Métodos`).
+- Estruturas de Controle (`If e Else`, `Switch Case`, `For` e `Range`).
+
 ### v0.2.2-20250422
 
-- `Tipos de Variáveis`: Reestruturação das pastas nesse módulo. 
+- `Tipos de Variáveis`: Reestruturação das pastas nesse módulo.
 
 ### v0.2.1-20250419
 
