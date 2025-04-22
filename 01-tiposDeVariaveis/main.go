@@ -3,15 +3,17 @@ package main
 import (
 	"fmt"
 
-	"github.com/rryandev/rocketseat-curso-go/01-tiposDeVariaveis/variaveis"
+	"github.com/rryandev/rocketseat-curso-go/01-tiposDeVariaveis/booleanos"
+	"github.com/rryandev/rocketseat-curso-go/01-tiposDeVariaveis/numeros"
+	"github.com/rryandev/rocketseat-curso-go/01-tiposDeVariaveis/textos"
 )
 
 func main() {
 	fmt.Println("===============")
-	variaveis.Textos()
+	textos.Textos()
 	fmt.Println("===============")
-	variaveis.ExibirNumeros()
+	numeros.ExibirNumeros()
 	fmt.Println("===============")
-	variaveis.Booleanos()
+	booleanos.Booleanos()
 	fmt.Println("===============")
 }

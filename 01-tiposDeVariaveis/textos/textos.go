@@ -1,4 +1,4 @@
-package variaveis
+package textos
 
 import (
 	"fmt"

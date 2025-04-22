@@ -1,4 +1,4 @@
-package variaveis
+package booleanos
 
 import "fmt"
 

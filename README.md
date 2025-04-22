@@ -28,7 +28,11 @@
 
 </a>
 
-### v0.2.1-20250418
+### v0.2.2-20250422
+
+- `Tipos de Variáveis`: Reestruturação das pastas nesse módulo. 
+
+### v0.2.1-20250419
 
 - Tipos de Variáveis Compostas (`Array`, `Slice` e `Map`).
 
