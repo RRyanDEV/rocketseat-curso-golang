@@ -28,25 +28,25 @@
 
 </a>
 
-### v0.3.2-20250422
+### v0.0.4-20250612
+
+- Ajuste no versionamento do `README`. **(RECOMENDADO ACOMPANHAR PELO README)**
+- Modulo avançado de `Go`.
+- Funções avançadas (`GoRoutines`, `Channels` e `Pointers`).
+
+### v0.0.3-20250422
 
 - Estruturando Projetos (`Structs`, `Funções` e `Métodos`).
 - Estruturas de Controle (`If e Else`, `Switch Case`, `For` e `Range`).
-
-### v0.2.2-20250422
-
 - `Tipos de Variáveis`: Reestruturação das pastas nesse módulo.
 
-### v0.2.1-20250419
+### v0.0.2-20250419
 
 - Tipos de Variáveis Compostas (`Array`, `Slice` e `Map`).
 
-### v0.1.1-20250418
+### v0.0.1-20250418
 
 - Atualização no README
-
-### v0.1.0-20250418
-
 - Criação do repositório e documentação.
 - Estruturação das pastas.
 - Modularização e Exportação de pacotes.
