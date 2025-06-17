@@ -28,6 +28,11 @@
 
 </a>
 
+### v1.0.0-20250617
+
+- Finalização do curso e criação de um projeto. (Caso se interesse no projeto, [Clique Aqui](https://github.com/RRyanDEV/quiz-game-golang) para acessar o repositório do projeto.)
+- Curso com certificação. [Acesse Aqui](https://app.rocketseat.com.br/certificates/71de2d63-6a15-4daf-b872-b3e89ca66ef6) para verificar o certificado.
+
 ### v0.0.4-20250612
 
 - Ajuste no versionamento do `README`. **(RECOMENDADO ACOMPANHAR PELO README)**
